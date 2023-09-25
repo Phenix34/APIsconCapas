@@ -1,0 +1,12 @@
+C:\Users\Fermin\source\repos\Examen\ENTITY\bin\Debug\net6.0\ENTITY.deps.json
+C:\Users\Fermin\source\repos\Examen\ENTITY\bin\Debug\net6.0\ENTITY.dll
+C:\Users\Fermin\source\repos\Examen\ENTITY\bin\Debug\net6.0\ENTITY.pdb
+C:\Users\Fermin\source\repos\Examen\ENTITY\obj\Debug\net6.0\ENTITY.csproj.AssemblyReference.cache
+C:\Users\Fermin\source\repos\Examen\ENTITY\obj\Debug\net6.0\ENTITY.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fermin\source\repos\Examen\ENTITY\obj\Debug\net6.0\ENTITY.AssemblyInfoInputs.cache
+C:\Users\Fermin\source\repos\Examen\ENTITY\obj\Debug\net6.0\ENTITY.AssemblyInfo.cs
+C:\Users\Fermin\source\repos\Examen\ENTITY\obj\Debug\net6.0\ENTITY.csproj.CoreCompileInputs.cache
+C:\Users\Fermin\source\repos\Examen\ENTITY\obj\Debug\net6.0\ENTITY.dll
+C:\Users\Fermin\source\repos\Examen\ENTITY\obj\Debug\net6.0\refint\ENTITY.dll
+C:\Users\Fermin\source\repos\Examen\ENTITY\obj\Debug\net6.0\ENTITY.pdb
+C:\Users\Fermin\source\repos\Examen\ENTITY\obj\Debug\net6.0\ref\ENTITY.dll
